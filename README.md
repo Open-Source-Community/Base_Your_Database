@@ -31,7 +31,7 @@ This is about understanding how data systems are designed, optimized, and scaled
 -   [What We Cover ](#what-we-cover)
 -   [Our Mission](#our-mission)
 -   [Collaboration](#collaboration)
--   [What You’ll Find Here*](#what-youll-find-here)
+-   [What You’ll Find Here](#what-youll-find-here)
 
 ---
 
