@@ -57,3 +57,6 @@ Using the `DVD Rental` Database:
 
 3) Show films that are **between 90 and 120** minutes long, ordered by length **(shortest first)**
 
+## Submission:
+Write your commands separated by new lines into a text file in this format `YourName.txt` and submit it in the usual manner in your committee, good luck!
+
